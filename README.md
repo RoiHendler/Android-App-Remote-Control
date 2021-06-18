@@ -55,7 +55,7 @@ Enjoy :)
  
 ![image](https://user-images.githubusercontent.com/73064092/122534738-80529900-d02b-11eb-9ae8-8b1f53b7dd2b.png)
 
-- [ ] Move the Joystick to change Aileron and Elevator, use the sliders to change Throttle and Rudder:   
+- [ ] Move the Joystick to change Aileron and Elevator, use the sliders to change the Throttle and the Rudder:   
 
 
 <img src="https://user-images.githubusercontent.com/73064092/122562185-76d92900-d04b-11eb-8101-8d988d23144d.png" width="250" height="500">
