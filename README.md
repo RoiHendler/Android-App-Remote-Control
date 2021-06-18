@@ -10,7 +10,7 @@ Third milestone
 This project is an Android App Remote Control, wich help you control your flight in the FlightGear Game.
 The control of the plane is done from the app, with a joystick and two sliders.  
 ## 📽️ Demonstration Video
-You can watch out trial video on YouTube- [------->LINK](https://github.com/user/repo/blob/branch/111111111.md)
+You can watch out trial video on YouTube- [------->LINK](https://youtu.be/fqjke-0-wj4)
 
 
 ## Architecture MVVM
