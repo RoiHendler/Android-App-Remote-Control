@@ -105,7 +105,7 @@ public class MainActivity2 extends AppCompatActivity {
                 if (seekBarValuesd3 >= 1) {
                     seekBarValuesd3 = seekBarValuesd3 - 1;
                 }
-                showRudder.setText("Throttle  " + seekBarValuesd3);
+                showRudder.setText("Rudder  " + seekBarValuesd3);
                 mainLayout.invalidate();
                 myViewModel.sendModelsb3Command(seekBarValuesd3);
 
@@ -121,7 +121,7 @@ public class MainActivity2 extends AppCompatActivity {
                 if (seekBarValuesd3 >= 1) {
                     seekBarValuesd3 = seekBarValuesd3 - 1;
                 }
-                showRudder.setText("Throttle  " + seekBarValuesd3);
+                showRudder.setText("Rudder  " + seekBarValuesd3);
                 mainLayout.invalidate();
                 myViewModel.sendModelsb3Command(seekBarValuesd3);
 
@@ -137,7 +137,7 @@ public class MainActivity2 extends AppCompatActivity {
                 if (seekBarValuesd3 >= 1) {
                     seekBarValuesd3 = seekBarValuesd3 - 1;
                 }
-                showRudder.setText("Throttle  " + seekBarValuesd3);
+                showRudder.setText("Rudder  " + seekBarValuesd3);
                 mainLayout.invalidate();
                 myViewModel.sendModelsb3Command(seekBarValuesd3);
             }
