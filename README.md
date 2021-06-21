@@ -31,6 +31,7 @@ To create two windows for the app, we used two activities.
 ## Features
 - [x] Seprated screen for the connection (IP & Port).
 - [x] Seprated screen for the controllers -Joystick & two sliders.
+- [x] Display flight data.
 ## Preliminary requirements
 - [x] Android Studio
 - [x] FlightGear
